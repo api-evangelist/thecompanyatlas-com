@@ -74,9 +74,17 @@ Everything profiled for thecompanyatlas-com is published on APIs.io rather than 
 
 ### APIs (1)
 
-- The Company Atlas API — API providing access to company and trade data via MCP endpoints (e.g., https://thecompanyatlas.com/mcp/australia).
+- [The Company Atlas API](https://apis.io/apis/thecompanyatlas-com/the-company-atlas-api/) — API providing access to company and trade data via MCP endpoints (e.g., https://thecompanyatlas.com/mcp/australia).
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Thecompanyatlas Com Domain Security](https://apis.io/security/thecompanyatlas-com/thecompanyatlas-com-domain-security/)
 
 ## Where to find this API
 
@@ -89,7 +97,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/thecompanyatlas-com/](https://apis.io/providers/thecompanyatlas-com/).
+**Kin Score 12.7** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 31.6 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/thecompanyatlas-com/](https://apis.io/providers/thecompanyatlas-com/).
 
 ## How this profile is made
 
